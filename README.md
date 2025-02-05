@@ -1,24 +1,34 @@
-# guide-general-apis
+## 🚀 **Welcome to GENERALGUIDECORPORATION!** 🎉  
+> _"Building the Future, One Line of Code at a Time"_  
+
+### 📌 **Who Am I?**
+```plaintext
+A passionate developer skilled in DART & FLUTTER 🚀
+```
+
+### 🔥 **What Can I Do?**
+- 🛠 **Custom Development**: Apps, Bots, UserBots, APIs, Backends, AI & Hardware  
+- 🏢 **Product Sales**: Clone Bots, UserBots, Apps, APIs (Digital & Physical)  
+- 💘 **Matchmaking**: Yes, I can help you find a partner! 😉  
+- 📚 **Tech Training**: Learn coding & other cool skills with me!  
 
 ---
-<h3 align="center">
-  Welcome to GENERALGUIDECORPORATION's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-**Hai perkenalkan saya seorang developer (DART - FLUTTER)**
-Saya bisa membuat melakukan
+### 👔 **Workplace**
+🏢 **GENERAL CORPORATION**  
+📢 _Help me grow by supporting my work!_  
 
-1. **JASA DEVELOPER (DART - FLUTTER) APP - BOT - USERBOT - API - BACKEND - AI - HARDWARE**
-2. **Menjual Produk CLONE BOT - USERBOT - APP - API - Digital / Fisik**
-3. **Saya juga bisa mencarikan anda pasangan**
-4. **SAYA Bisa melatih anda agar bisa memiliki skills coding / hal lain loh**
+---
 
-Btw Saya bekerja di **GENERAL CORPORATION** Tolong bantu subscribe agar saya bisa naik gaji ya
+### 🔗 **Find Me Here** 🌍
+🔴 [**YouTube**](https://www.youtube.com/@GENERALCORP)  
+🔸 [**GitHub**](https://github.com/generalcorporation)  
+🔷 [**Telegram**](https://t.me/GENERALCORPORATIONBOT?start=ref_gh_readme_guide-general-apis)  
 
-1. [YOUTUBE](https://www.youtube.com/@GENERALCORP)
-2. [GITHUB](https://github.com/generalcorporation)
-3. [TELEGRAM](https://t.me/GENERALCORPORATIONBOT?start=ref_gh_readme_guide-general-apis)
+---
 
-🙏️ **Tolong siapapun beli jasa kami agar kami bisa bergerak maju lebih cepat**
+### ❤️ **Support Us**
+🙏 _Your support helps us innovate faster!_  
+💰 **Hire us for your next project!**  
+
 ---
